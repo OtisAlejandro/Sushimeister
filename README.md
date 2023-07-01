@@ -2,7 +2,7 @@
 
 Sushimeister is a static front-end site developed to practice and solidify knowledge and capabilities in writing and developing websites using vanilla HTML, CSS, and JavaScript. It incorporates fluid animations, various sections, and a mobile-friendly user experience.
 
-If you want to view a life demo of this project, you can do so on my hosted pages site at [Sushimeister](https://otisalejandro.github.io/sushimeister).
+If you want to view a life demo of this project, you can do so on my hosted pages site at [Sushimeister](https://otisalejandro.github.io/Sushimeister).
 
 ![Example](/example/example1.png)
 
