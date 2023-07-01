@@ -4,6 +4,8 @@ Sushimeister is a static front-end site developed to practice and solidify knowl
 
 If you want to view a life demo of this project, you can do so on my hosted pages site at [Sushimeister](https://otisalejandro.github.io/sushimeister).
 
+![Example](/example/example1.png)
+
 ## Table of Contents
 
 - [Features](#features)
